@@ -1,6 +1,6 @@
 {
   "name": "ssovit-tiktokapi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Unofficial TikTok API Library for NodeJs",
   "main": "./src/index.js",
   "scripts": {
