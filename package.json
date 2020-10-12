@@ -1,0 +1,29 @@
+{
+  "name": "tiktokapi",
+  "version": "1.0.0",
+  "description": "Unofficial TikTok API Library for NodeJs",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssovit/node-tiktokapi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ssovit/node-tiktokapi/issues"
+  },
+  "homepage": "https://github.com/ssovit/node-tiktokapi#readme",
+  "keywords": [
+    "tiktok",
+    "tiktok-scraper",
+    "tiktok",
+    "library"
+  ],
+  "dependencies": {
+    "request": "2.88.2",
+    "request-promise": "4.2.6"
+  },
+  "author": "Sovit Tamrakar <sovit.tamrakar@gmail.com>",
+  "license": "MIT"
+}
